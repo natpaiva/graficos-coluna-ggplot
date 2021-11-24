@@ -1,5 +1,7 @@
 # Gráficos de coluna usando pacote ggplot2
 
+Natalia Paiva IESC UFRJ
+
 Usando dados fictícios;
 
 Graficos de colunas usando frequencia absoluta e em %;
